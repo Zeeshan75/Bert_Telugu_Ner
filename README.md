@@ -7,6 +7,7 @@ Finding the named entities from the sentences of telugu language trained the mod
    on the telugu language using SOTA(State of the ART) multicased model google "BERT".
 
 ### Process :
+
     - First I had collected the data from the <code> https://github.com/anikethjr/NER_Telugu <code>
     which is collected from the telugu newspaper websites.
     - Then I used the google BERT model trained on the English NER from <code>
