@@ -1,0 +1,52 @@
+There's >>> O
+
+a >>> O
+
+passage >>> O
+
+I >>> O
+
+got >>> O
+
+memorized >>> O
+
+. >>> B-MISC
+
+Ezekiel >>> O
+
+25:17 >>> O
+
+The >>> O
+
+path >>> B-MISC
+
+of >>> O
+
+the >>> O
+
+righteous >>> O
+
+man >>> O
+
+is >>> O
+
+beset >>> O
+
+on >>> O
+
+all >>> O
+
+sides >>> O
+
+by >>> O
+
+inequities >>> O
+
+selfish >>> O
+
+and >>> O
+
+tyranny >>> O
+
+evil >>> O
+
