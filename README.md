@@ -20,6 +20,11 @@ Finding the named entities from the sentences of telugu language trained the mod
 	   trained on. Then we predict the NER of TELUGU words.
 	   Note: At present we are satisfied with the accuracy but need much data to be trained on to get better
 		  accuracy.
+		  
+### How to use:
+	- First download the multicased BERT model and change the path in the ipynb file and use google colab
+	  to train the model, It will take nearly 1-2 hours for training then download those trained models
+	  and use them with <code>telugu_ner.py<code> which is just a prediction file.
 	  
 ### References:
 + [https://github.com/google-research/bert](https://github.com/google-research/bert)
